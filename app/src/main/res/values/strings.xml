@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QUOMO-ID 出欠確認 Viewer</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">社員番号を入力</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">社員番号登録</string>
+    <string name="action_quomo">QUOMO ID</string>
+    <string name="error_invalid_email">This employee_id is invalid</string>
+    <string name="error_invalid_password">社員番号は５桁です</string>
+    <string name="error_incorrect_password">This employee_id is incorrect</string>
+    <string name="error_field_required">社員番号が入力されていません</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>

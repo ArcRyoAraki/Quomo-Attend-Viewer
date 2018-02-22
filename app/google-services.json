@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "706836108615",
+    "firebase_url": "https://quomo-attend.firebaseio.com",
+    "project_id": "quomo-attend",
+    "storage_bucket": "quomo-attend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706836108615:android:d39aa50fedf6b9dd",
+        "android_client_info": {
+          "package_name": "com.arcjp.quomo_attend_viewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706836108615-1laodu0psq8nthor1et14srbvl6rrqel.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arcjp.quomo_attend_viewer",
+            "certificate_hash": "43a16dcddcf7eb730cd3e5c20ec13d5f4316750f"
+          }
+        },
+        {
+          "client_id": "706836108615-0r92muf75f9j8nfq0qif1upqtp19odjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD_k2GO9X0HhIByLcyqwIphNBZ_xLuyto"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706836108615-0r92muf75f9j8nfq0qif1upqtp19odjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
